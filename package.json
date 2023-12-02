@@ -1,0 +1,16 @@
+{
+  "name": "modern-js-modules-tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "build parcel index.html", 
+    "start": "parcel index.html",
+  },
+  "author": "JAVID ASHWAQ F",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
